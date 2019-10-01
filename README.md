@@ -31,3 +31,5 @@ Second try will give
 [error] (Compile / compileIncremental) Compilation failed
 Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore?
 ```
+## Fix environment
+`rm -rf project/target`
